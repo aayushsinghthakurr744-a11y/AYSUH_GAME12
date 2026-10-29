@@ -58,3 +58,18 @@ img{
     border-radius: 20px;
 }
 
+.reset-box{
+    margin-top: 50px;
+    
+}
+
+#reset-btn{
+    font-size: 20px;
+     background-color: #081b31;
+    color: #fff;
+   
+    display: inline;
+    padding: 10px;
+    border-radius: 20px;
+   
+}
